@@ -1,4 +1,5 @@
 # Pull Request Template
+
 A Pull Request Template for Creating Meaningful PRs
 
 Add this file [PULL_REQUEST_TEMPLATE.md](https://raw.githubusercontent.com/flexyford/pull-request-template/master/PULL_REQUEST_TEMPLATE.md) to the root directory of your repository.
